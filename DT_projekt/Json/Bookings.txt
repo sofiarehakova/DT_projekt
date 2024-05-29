@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac11')",
+    "listingId": "ObjectId('60f718c0c8b123456789abcd')",
+    "userId": "ObjectId('60f718c0c8b123456789ac01')",
+    "checkIn": "2024-06-01",
+    "checkOut": "2024-06-07",
+    "noGuests": 2,
+    "payments": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789ac21')",
+        "amount": 1050.0,
+        "paymentDate": "2024-05-25T12:00:00Z",
+        "paymentMethod": "ApplePay"
+      }
+    ]
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac12')",
+    "listingId": "ObjectId('60f718c0c8b123456789abd6')",
+    "userId": "ObjectId('60f718c0c8b123456789ac02')",
+    "checkIn": "2024-07-15",
+    "checkOut": "2024-07-20",
+    "noGuests": 1,
+    "payments": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789ac22')",
+        "amount": 420.0,
+        "paymentDate": "2024-07-01T08:30:00Z",
+        "paymentMethod": "Credit Card"
+      }
+    ]
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac13')",
+    "listingId": "ObjectId('60f718c0c8b123456789abdf')",
+    "userId": "ObjectId('60f718c0c8b123456789ac03')",
+    "checkIn": "2024-08-05",
+    "checkOut": "2024-08-10",
+    "noGuests": 2,
+    "payments": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789ac23')",
+        "amount": 800.0,
+        "paymentDate": "2024-07-25T15:45:00Z",
+        "paymentMethod": "PayPal"
+      }
+    ]
+  }
+]

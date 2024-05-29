@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ObjectId('60f718c0c8b123456789abf1')",
+    "listingId": "ObjectId('60f718c0c8b123456789abcd')",
+    "userId": "ObjectId('60f718c0c8b123456789abf2')",
+    "rating": 4.6,
+    "comment": "Great place! Very clean and comfortable.",
+    "reviewDate": "2024-05-10T12:00:00Z"
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789abf3')",
+    "listingId": "ObjectId('60f718c0c8b123456789abd6')",
+    "userId": "ObjectId('60f718c0c8b123456789abf4')",
+    "rating": 3.5,
+    "comment": "Good location, but a bit noisy at night.",
+    "reviewDate": "2024-05-15T08:30:00Z"
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789abf5')",
+    "listingId": "ObjectId('60f718c0c8b123456789abdf')",
+    "userId": "ObjectId('60f718c0c8b123456789abf6')",
+    "rating": 5.0,
+    "comment": "Amazing stay! Host was very friendly and helpful.",
+    "reviewDate": "2024-05-20T15:45:00Z"
+  }
+]

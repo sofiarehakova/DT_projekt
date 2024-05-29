@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac01')",
+    "firstName": "Angus",
+    "lastName": "Doe",
+    "birthDate": "1990-01-15",
+    "age": 34,
+    "gender": "Male",
+    "phone": "+1234567890",
+    "email": "angus.doe@example.com"
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac02')",
+    "firstName": "Will",
+    "lastName": "Smith",
+    "birthDate": "1985-06-25",
+    "age": 38,
+    "gender": "Male",
+    "phone": "+0987654321",
+    "email": "will.smith@example.com"
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789ac03')",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "birthDate": "1995-12-05",
+    "age": 28,
+    "gender": "Female",
+    "phone": "+1122334455",
+    "email": "emily.johnson@example.com"
+  }
+]

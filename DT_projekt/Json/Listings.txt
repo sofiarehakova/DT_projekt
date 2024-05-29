@@ -1,0 +1,185 @@
+[
+  {
+    "id": "ObjectId('60f718c0c8b123456789abcd')",
+    "host": {
+      "id": "ObjectId('60f718c0c8b123456789abce')",
+      "name": "Robin Johnson",
+      "responseTime": "01:30:00",
+      "responseRate": 95,
+      "listingsCount": 4,
+      "address": {
+        "street": "123 Main St",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "postalCode": "10101",
+        "city": "New York",
+        "country": "USA",
+        "state": "NY"
+      }
+    },
+    "neighborhood": {
+      "id": "ObjectId('60f718c0c8b123456789abcf')",
+      "name": "Chelsea",
+      "borough": {
+        "id": "ObjectId('60f718c0c8b123456789abd0')",
+        "name": "Manhattan"
+      }
+    },
+    "roomType": {
+      "id": "ObjectId('60f718c0c8b123456789abd1')",
+      "name": "Entire Home/Apartment",
+      "description": "A full apartment for your stay."
+    },
+    "name": "Cozy Apartment in Chelsea",
+    "guestIncluded": 2,
+    "price": 150.0,
+    "minimumNights": 3,
+    "availability": 10,
+    "numberOfReviews": 25,
+    "lastReview": "2024-05-01T12:34:56Z",
+    "amenities": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abd2')",
+        "name": "WiFi"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abd3')",
+        "name": "Air Conditioning"
+      }
+    ],
+    "photos": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abd4')",
+        "photoURL": "http://example.com/photo1.jpg",
+        "description": "Living room"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abd5')",
+        "photoURL": "http://example.com/photo2.jpg",
+        "description": "Bedroom"
+      }
+    ]
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789abd6')",
+    "host": {
+      "id": "ObjectId('60f718c0c8b123456789abd7')",
+      "name": "Will Smith",
+      "responseTime": "02:00:00",
+      "responseRate": 81,
+      "listingsCount": 3,
+      "address": {
+        "street": "456 Elm St",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "postalCode": "90001",
+        "city": "Los Angeles",
+        "country": "USA",
+        "state": "CA"
+      }
+    },
+    "neighborhood": {
+      "id": "ObjectId('60f718c0c8b123456789abd8')",
+      "name": "Downtown",
+      "borough": {
+        "id": "ObjectId('60f718c0c8b123456789abd9')",
+        "name": "Los Angeles County"
+      }
+    },
+    "roomType": {
+      "id": "ObjectId('60f718c0c8b123456789abda')",
+      "name": "Private Room",
+      "description": "A private room in a shared apartment."
+    },
+    "name": "Private Room in Downtown LA",
+    "guestIncluded": 1,
+    "price": 80.0,
+    "minimumNights": 2,
+    "availability": 15,
+    "numberOfReviews": 40,
+    "lastReview": "2024-05-15T15:45:00Z",
+    "amenities": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abdb')",
+        "name": "WiFi"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abdc')",
+        "name": "Pool"
+      }
+    ],
+    "photos": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abdd')",
+        "photoURL": "http://example.com/photo3.jpg",
+        "description": "View from room"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abde')",
+        "photoURL": "http://example.com/photo4.jpg",
+        "description": "Shared kitchen"
+      }
+    ]
+  },
+  {
+    "id": "ObjectId('60f718c0c8b123456789abdf')",
+    "host": {
+      "id": "ObjectId('60f718c0c8b123456789abe0')",
+      "name": "Sam Davis",
+      "responseTime": "00:45:00",
+      "responseRate": 95,
+      "listingsCount": 2,
+      "address": {
+        "street": "789 Oak St",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "postalCode": "SW1A 1AA",
+        "city": "London",
+        "country": "UK",
+        "state": "London"
+      }
+    },
+    "neighborhood": {
+      "id": "ObjectId('60f718c0c8b123456789abe1')",
+      "name": "Westminster",
+      "borough": {
+        "id": "ObjectId('60f718c0c8b123456789abe2')",
+        "name": "Greater London"
+      }
+    },
+    "roomType": {
+      "id": "ObjectId('60f718c0c8b123456789abe3')",
+      "name": "Shared Room",
+      "description": "A bed in a shared room."
+    },
+    "name": "Shared Room in Central London",
+    "guestIncluded": 1,
+    "price": 50.0,
+    "minimumNights": 1,
+    "availability": 20,
+    "numberOfReviews": 30,
+    "lastReview": "2024-04-20T09:30:00Z",
+    "amenities": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abe4')",
+        "name": "WiFi"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abe5')",
+        "name": "Heating"
+      }
+    ],
+    "photos": [
+      {
+        "id": "ObjectId('60f718c0c8b123456789abe6')",
+        "photoURL": "http://example.com/photo5.jpg",
+        "description": "Shared room"
+      },
+      {
+        "id": "ObjectId('60f718c0c8b123456789abe7')",
+        "photoURL": "http://example.com/photo6.jpg",
+        "description": "Common area"
+      }
+    ]
+  }
+]
